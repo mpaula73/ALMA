@@ -1,0 +1,13 @@
+diff --git a/node_modules/react-native-calendars/package.json b/node_modules/react-native-calendars/package.json
+index 6d5d3b1..7d9e4a9 100644
+--- a/node_modules/react-native-calendars/package.json
++++ b/node_modules/react-native-calendars/package.json
+@@ -44,7 +44,7 @@
+     "react-native-gesture-handler": ">=1.0.0",
+     "react-native-reanimated": ">=1.0.0",
+     "react-native-screens": ">=2.0.0",
+-    "react-native-safe-area-context": ">=4.5.0"
++    "react-native-safe-area-context": ">=5.6.2"
+   },
+   "peerDependenciesMeta": {
+     "react-native": {
